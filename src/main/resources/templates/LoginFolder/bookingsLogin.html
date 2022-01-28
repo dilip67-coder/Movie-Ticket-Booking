@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Bookings Login</h1>
+<form action="/getBookingsData">
+<input type="text" name="username" placeholder="Enter UserName">
+<input type="text" name="password" placeholder="Enter Password">
+<input type="submit" value="Get Data">
+</form>
+<div th:each= "bookings : ${bookings}">
+<h5 th:text=${bookings.movieName}></h5>
+</div>
+</body>
+</html>
