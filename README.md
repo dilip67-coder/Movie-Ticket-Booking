@@ -10,12 +10,11 @@
 8. Once you click on MyBookings on header. You have to login and you can get all the booking history include Qr Codes. 
 
 #Pending Features
-
-1.Seat Booking should depends on number of tickets you select.
-2.Include header on MyBookings interface also.
-3.Make a good interface for MyBookings Login.
+1. Seat Booking should depends on number of tickets you select.
+2. Include header on MyBookings interface also.
+3. Make a good interface for MyBookings Login.
 4. Make a good UI for bookticker page. It is not arranged well.
 5. Integrate HOME, Movie Genres and Set movies by category. 
 6. Search movie should also include.
-7. Add a button for Admin who can add, update, delete and edit movies.
-8. And the Final is make it RESPONSIVE app.
+7.  Add a button for Admin who can add, update, delete and edit movies.
+8.   And the Final is make it RESPONSIVE app.
